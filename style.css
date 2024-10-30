@@ -37,3 +37,37 @@
     width: 20vh;
 }
 }
+
+
+
+.about-section {
+    background-color: #f9f9f9; /* Soft background color for the section */
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333;
+  }
+  
+  .thick-hr {
+    border: 2px solid #007bff; /* Accent color for the horizontal rule */
+    margin-top: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .img-fluid {
+    max-width: 90%; /* Adjusts image size slightly */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  }
+  
+  .lead {
+    font-size: 1.125rem;
+    color: #555;
+    line-height: 1.6;
+    margin-top: 1rem;
+  }
+  
